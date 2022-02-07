@@ -1,0 +1,18 @@
+#erreur {
+	font-size: xx-large;
+	text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+
+div {
+	display: inline;
+}
+
+MSGprincipal {
+		margin: 0 auto;
+		width: 100px;
+}
