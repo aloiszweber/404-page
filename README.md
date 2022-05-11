@@ -1,1 +1,5 @@
-En cours de réalisation
+# 404 web page
+
+## Introduction
+
+Creation of a 404 page using HTML for the structure of the page and CSS for its design.
