@@ -1,0 +1,23 @@
+{
+  "name": "404-page",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloiszweber/404-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloiszweber/404-page/issues"
+  },
+  "homepage": "https://github.com/aloiszweber/404-page#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
